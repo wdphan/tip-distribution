@@ -1,4 +1,4 @@
-# Tip Distributiuon
+# Tip Distribution
 
 > A contract that tips up to 3 addresses
 
